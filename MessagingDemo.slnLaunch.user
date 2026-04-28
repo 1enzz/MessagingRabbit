@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Novo Perfil",
+    "Projects": [
+      {
+        "Path": "src\\NotificationService\\NotificationService.API\\NotificationService.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "src\\OrderService\\OrderService.API\\OrderService.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

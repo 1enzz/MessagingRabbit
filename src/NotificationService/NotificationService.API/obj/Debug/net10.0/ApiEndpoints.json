@@ -1,0 +1,104 @@
+[
+  {
+    "ContainingType": "NotificationService.API.Endpoints.NotificationEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapNotificationEndpoints\u003Eb__0_0",
+    "RelativePath": "notifications/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Notifications"
+    ],
+    "EndpointName": "GetNotifications",
+    "Summary": "Lista todas as notifica\u00E7\u00F5es"
+  },
+  {
+    "ContainingType": "NotificationService.API.Endpoints.NotificationEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapNotificationEndpoints\u003Eb__0_2",
+    "RelativePath": "notifications/",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "NotificationService.Application.DTOs.CreateNotificationRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Notifications"
+    ],
+    "EndpointName": "CreateNotification",
+    "Summary": "Cria uma notifica\u00E7\u00E3o manualmente"
+  },
+  {
+    "ContainingType": "NotificationService.API.Endpoints.NotificationEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapNotificationEndpoints\u003Eb__0_1",
+    "RelativePath": "notifications/{id:guid}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Notifications"
+    ],
+    "EndpointName": "GetNotificationById",
+    "Summary": "Busca notifica\u00E7\u00E3o por ID"
+  },
+  {
+    "ContainingType": "NotificationService.API.Endpoints.NotificationEndpoints\u002B\u003C\u003Ec",
+    "Method": "\u003CMapNotificationEndpoints\u003Eb__0_3",
+    "RelativePath": "notifications/{id:guid}/read",
+    "HttpMethod": "PATCH",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Notifications"
+    ],
+    "EndpointName": "MarkNotificationAsRead",
+    "Summary": "Marca uma notifica\u00E7\u00E3o como lida"
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dyyBF30dav8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\enzzo\\source\\repos\\messaging-demo\\src\\OrderService\\OrderService.Application\\OrderService.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\enzzo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.7\\microsoft.extensions.dependencyinjection.abstractions.10.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
