@@ -13,3 +13,6 @@ C:\Users\enzzo\source\repos\messaging-demo\src\NotificationService\NotificationS
 C:\Users\enzzo\source\repos\messaging-demo\src\NotificationService\NotificationService.Application\obj\Debug\net10.0\refint\NotificationService.Application.dll
 C:\Users\enzzo\source\repos\messaging-demo\src\NotificationService\NotificationService.Application\obj\Debug\net10.0\NotificationService.Application.pdb
 C:\Users\enzzo\source\repos\messaging-demo\src\NotificationService\NotificationService.Application\obj\Debug\net10.0\ref\NotificationService.Application.dll
+C:\Users\enzzo\source\repos\messaging-demo\src\NotificationService\NotificationService.Application\bin\Debug\net10.0\Shared.Contracts.dll
+C:\Users\enzzo\source\repos\messaging-demo\src\NotificationService\NotificationService.Application\bin\Debug\net10.0\Shared.Contracts.pdb
+C:\Users\enzzo\source\repos\messaging-demo\src\NotificationService\NotificationService.Application\obj\Debug\net10.0\NotificationService.Application.sourcelink.json

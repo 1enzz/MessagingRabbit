@@ -47,3 +47,4 @@ C:\Users\enzzo\source\repos\messaging-demo\src\NotificationService\NotificationS
 C:\Users\enzzo\source\repos\messaging-demo\src\NotificationService\NotificationService.API\bin\Debug\net10.0\RabbitMQ.Client.dll
 C:\Users\enzzo\source\repos\messaging-demo\src\NotificationService\NotificationService.API\bin\Debug\net10.0\Shared.Contracts.dll
 C:\Users\enzzo\source\repos\messaging-demo\src\NotificationService\NotificationService.API\bin\Debug\net10.0\Shared.Contracts.pdb
+C:\Users\enzzo\source\repos\messaging-demo\src\NotificationService\NotificationService.API\obj\Debug\net10.0\NotificationService.API.sourcelink.json

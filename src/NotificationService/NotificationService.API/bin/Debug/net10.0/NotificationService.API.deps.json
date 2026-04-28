@@ -114,7 +114,9 @@
       },
       "NotificationService.Application/1.0.0": {
         "dependencies": {
-          "NotificationService.Domain": "1.0.0"
+          "MassTransit": "9.1.0",
+          "NotificationService.Domain": "1.0.0",
+          "Shared.Contracts": "1.0.0"
         },
         "runtime": {
           "NotificationService.Application.dll": {
