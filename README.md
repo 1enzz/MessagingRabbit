@@ -1,6 +1,6 @@
 # MessagingDemo
 
-Projeto de estudo para aprendizado de mensageria com .NET, RabbitMQ e MassTransit.  
+Projeto de estudo para aplicação e aprimoramento dos conceitos de mensageria com .NET, RabbitMQ e MassTransit.  
 Composto por dois microsserviços independentes que se comunicam de forma assíncrona através de um broker de mensagens.
 
 ---
